@@ -10,7 +10,7 @@
 
 import UIKit
 
-class ___VARIABLE_productName:identifier___ViewController: UIViewController
+class ___VARIABLE_productName:identifier___ViewController: BaseVC
 {
     var presenter: ___VARIABLE_productName:identifier___PresenterProtocol?
     
