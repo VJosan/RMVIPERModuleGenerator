@@ -10,8 +10,10 @@
 
 import UIKit
 
-class ___VARIABLE_productName:identifier___ViewController: BaseVC
+class ___VARIABLE_productName:identifier___ViewController: BaseVC, StoryboardInstantiable
 {
+    static var storyboardName: String = "___VARIABLE_productName:identifier___"
+    
     var presenter: ___VARIABLE_productName:identifier___PresenterProtocol?
     
     // MARK: - Outlets
