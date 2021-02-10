@@ -9,6 +9,7 @@
 //
 
 import UIKit
+import EBSSwiftUtils
 
 class ___VARIABLE_productName:identifier___ViewController: BaseVC, StoryboardInstantiable
 {
