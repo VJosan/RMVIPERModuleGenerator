@@ -10,7 +10,6 @@
 
 import UIKit
 
-class ___VARIABLE_productName:identifier___Wireframe: ___VARIABLE_productName:identifier___WireframeProtocol
-{
+class ___VARIABLE_productName:identifier___Wireframe: ___VARIABLE_productName:identifier___WireframeProtocol {
     
 }

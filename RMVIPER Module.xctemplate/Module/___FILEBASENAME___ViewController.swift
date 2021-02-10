@@ -11,8 +11,7 @@
 import UIKit
 import EBSSwiftUtils
 
-class ___VARIABLE_productName:identifier___ViewController: BaseVC, StoryboardInstantiable
-{
+class ___VARIABLE_productName:identifier___ViewController: BaseVC, StoryboardInstantiable {
     static var storyboardName: String = "___VARIABLE_productName:identifier___"
     
     var presenter: ___VARIABLE_productName:identifier___PresenterProtocol?
@@ -20,8 +19,7 @@ class ___VARIABLE_productName:identifier___ViewController: BaseVC, StoryboardIns
     // MARK: - Outlets
     
     // MARK: - Life Cycle
-    override func viewDidLoad()
-    {
+    override func viewDidLoad() {
         super.viewDidLoad()
         
     }
@@ -29,7 +27,6 @@ class ___VARIABLE_productName:identifier___ViewController: BaseVC, StoryboardIns
 }
 
 // MARK: - Presenter Output
-extension ___VARIABLE_productName:identifier___ViewController: ___VARIABLE_productName:identifier___ViewControllerProtocol
-{
+extension ___VARIABLE_productName:identifier___ViewController: ___VARIABLE_productName:identifier___ViewControllerProtocol {
     
 }
